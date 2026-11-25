@@ -1,0 +1,6 @@
+:root{font-family:'DM Sans',sans-serif;color:#24231f;background:#faf9f6;font-synthesis:none;text-rendering:optimizeLegibility;--ink:#24231f;--muted:#77746d;--accent:#c16b45;--line:#e9e5de}
+*{box-sizing:border-box}body{margin:0}a{color:inherit;text-decoration:none}
+input,textarea{font:inherit;border:1px solid var(--line);border-radius:4px;padding:11px 12px;background:#fff;min-width:0}
+button{border:0;background:var(--ink);color:white;padding:11px 18px;border-radius:4px;font:600 13px 'DM Sans';cursor:pointer}
+.state{padding:35px 0;color:var(--muted)}.error{color:#a33}
+a:focus-visible,button:focus-visible,input:focus-visible,textarea:focus-visible{outline:2px solid var(--accent);outline-offset:2px}

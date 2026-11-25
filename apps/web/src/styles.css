@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap');
+@import "./components/common/Global.css";
+@import "./components/layout/Header.css";
+@import "./pages/Home.css";
+@import "./components/products/ProductGrid.css";
+@import "./pages/Listing.css";
+@import "./pages/ProductDetail.css";
+@import "./components/enquiry/EnquiryForm.css";
+@import "./components/layout/Footer.css";
+@import "./components/common/Responsive.css";
