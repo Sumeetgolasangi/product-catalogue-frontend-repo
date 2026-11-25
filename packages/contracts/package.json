@@ -1,0 +1,1 @@
+{"name":"@catalogue/contracts","version":"1.0.0","private":true,"type":"module","exports":"./src/index.ts","scripts":{"typecheck":"tsc --noEmit"}}
